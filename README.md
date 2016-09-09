@@ -1,3 +1,3 @@
 var s=document.createElement('script');s.type='text/javascript';
-s.src='https://raw.githubusercontent.com/sushilshinde/injectjshack/master/haunted.js';
+s.src='https://cdn.rawgit.com/sushilshinde/injectjshack/master/haunted.js';
 document.body.appendChild(s);
